@@ -1,7 +1,7 @@
 function App() {
   return (
-    <div className="grid grid-cols-1 bg-gray-600">
-        <span>TailwindCSS : ok</span>
+    <div className="bg-purple-400">
+        TailwindCSS : ok
         ESLinter & Prettier : ok
         ReactJS: ok
         Vite: ok
